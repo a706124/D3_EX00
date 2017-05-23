@@ -1,3 +1,3 @@
 # D3_EX00
 
-ds.js Exercise
+d3.js Exercise
